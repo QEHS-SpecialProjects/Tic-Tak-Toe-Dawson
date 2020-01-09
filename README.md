@@ -9,7 +9,7 @@ Includes
 - Auto reset with delay
 - Modes: 2-player, easy, medium, impossible
 - Scoreboard
-- Games go to best of 10
+- Game end with first player winning 10
 
 Algorithm is based on chance, percentages to make choices
 
