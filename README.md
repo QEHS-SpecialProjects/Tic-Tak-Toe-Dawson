@@ -13,5 +13,5 @@ Includes
 
 Algorithm is based on chance, percentages to make choices
 
-Easter Egg: winning on impossible mode: choose two adjacent sides, then corner to form triple threat
+Easter Egg: winning on impossible mode: choose two specific adjacent sides (top and right), then corner to form triple threat
 - taking center is only way AI will counter this
